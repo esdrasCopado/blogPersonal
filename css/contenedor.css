@@ -1,0 +1,31 @@
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif;
+  word-wrap: break-word;
+}
+.header-principal{
+	background-color: #000;
+	box-sizing: border-box
+}
+
+.titulo-subtitulo{
+	text-align: center;
+	padding: 2.6em 0px 1.4em;
+	
+	margin: 0 1em;
+}
+.titulo-Acervo{
+	margin: 0px;
+text-transform: uppercase;
+font-family: 'Lato', sans-serif;
+font-weight: lighter;
+font-size: calc(2rem + 4.5vw);
+line-height: 1.1;
+letter-spacing: 2px;
+}
+.principal-link-acervolima{
+	color: #FFF;
+	text-decoration: none;
+}
